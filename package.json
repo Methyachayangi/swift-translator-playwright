@@ -1,0 +1,13 @@
+{
+  "name": "swift-translator-playwright",
+  "version": "1.0.0",
+  "description": "IT3040 Assignment 1 - Singlish to Sinhala Automation",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:ui": "npx playwright test --ui",
+    "report": "npx playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.42.0"
+  }
+}
