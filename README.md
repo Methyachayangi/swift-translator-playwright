@@ -1,7 +1,9 @@
 # IT3040 Assignment 1 - Automation Testing
 
 **Student ID:** IT23748408
-**Option:** (Singlish to Sinhala)
+
+## Option:
+(Singlish to Sinhala)
 **Target Application:** https://www.swifttranslator.com/
 
 ## Project Description
